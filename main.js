@@ -81,7 +81,7 @@ function showResult() {
     document.getElementById("quiz").innerHTML = `
         <h2>💖 Fim do Quiz 💖</h2>
         <p>Você acertou ${score} de ${questions.length} perguntas!</p>
-        <p>Te amo ❤️</p>
+        <p>Te amo amor❤️. Se você chegou até aqui, é porque nosso amor ja venceu o jogo, independente da sua pontuação amor. Eu te amo infinitamente e vou te amar pra sempre. Espero muito poder passar todos os dias que me restam ao seu lado. Te amo MUITO💞 e não vejo a hora de a gente casar e ter o nosso bebezinho. Sei que posso não ser o namorado perfeito, mas esse foi um jeitinho de fazer algo minimamente bonitinho pro amor da minha vida ver. Para sempre nós amor💞💕💕🩷🩷</p>
     `;
     document.getElementById("nextBtn").style.display = "none";
 
